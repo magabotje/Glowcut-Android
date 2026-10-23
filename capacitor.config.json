@@ -1,0 +1,6 @@
+{
+  "appId": "com.glowcut.videostudio",
+  "appName": "GlowCut Video Studio",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
